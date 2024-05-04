@@ -1,0 +1,4 @@
+            - name: App Inventor Extension
+  # You may pin to the exact commit or the version.
+  # uses: pavi2410/AIX-Action@89480703181bfccaec5bfc427606979e8a6a3b47
+  uses: pavi2410/AIX-Action@0.5
